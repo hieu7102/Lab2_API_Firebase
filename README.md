@@ -491,7 +491,7 @@ if data.get("user_id") != user_id:
 Link video demo:
 
 ```text
-[https://drive.google.com/drive/u/0/folders/1TGHgDU15yByadarf5cLeksAPP6sLCZ_a](https://drive.google.com/drive/folders/1sXamwhaVQ6-3BcFnkhlT7HZMOmQLxaDA?usp=drive_link)
+https://drive.google.com/drive/folders/1sXamwhaVQ6-3BcFnkhlT7HZMOmQLxaDA
 ```
 
 ---
