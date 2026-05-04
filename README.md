@@ -273,7 +273,7 @@ Mỗi document có cấu trúc:
 ## 9.1 Clone repository
 
 ```bash
-git clone https://github.com/your-repository/Lab2_API-Firebase.git
+git clone https://github.com/hieu7102/Lab2_API_Firebase.git
 cd Lab2_API-Firebase
 ```
 
